@@ -4,7 +4,7 @@
 
 I made mistake that i mistakely pushed my first codes to redux-toolkit branch and the actual redux-toolkit learning codes in this master branch.
 
-So, I would recommend to first go this branch first [first-main-branch](https://github.com/ShirshakShahi/react-redux/tree/redux-toolkit)
+So, I would recommend to first go this branch [first-main-branch](https://github.com/ShirshakShahi/react-redux/tree/redux-toolkit)
 
 
 ### npm install @reduxjs/toolkit
