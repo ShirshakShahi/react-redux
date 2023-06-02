@@ -1,5 +1,7 @@
 ## Deep diving into Redux
 
+This is the first main branch that I accidently pushed to this secondary branch. Here,I will provide the codes I wrote during this session.
+
 ### some tips for react-redux state management
 
 1. Plan your state structure before coding.
